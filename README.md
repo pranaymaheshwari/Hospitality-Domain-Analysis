@@ -10,15 +10,15 @@ As a Data Analyst, the objective was to create a comprehensive dashboard that wo
 
 ## Data Information and Preparation:
 
-●	The dataset used for this analysis was collected from website using python technique (web scraping)
-●	The Data Warehousing is done using Python and MySQL database for future use.
-●	Here, MySQL is used for ER diagram which will help in data modelling in PowerBI.
-●	The dataset comprises five CSV files, 3-dimension tables, and 2 fact tables.
-                ➢dim_date: data includes day type (weekend or weekday), month, and week number (W19 —W32)
-                ➢dim_hotels : Includes property id, property name, category (luxury/business) and the city.
-                ➢dim_rooms : Includes room id and room class.
-                ➢fact_aggregated_bookings : Stores information about bookings including booking dates, booking platforms, number of guests, revenue, check-in, and checkout dates.
-                ➢fact_bookings : Includes successful bookings, hotel id, and capacity.
+- The dataset used for this analysis was collected from website using python technique (web scraping)
+- The Data Warehousing is done using Python and MySQL database for future use.
+- Here, MySQL is used for ER diagram which will help in data modelling in PowerBI.
+- The dataset comprises five CSV files, 3-dimension tables, and 2 fact tables.
+  1. dim_date: data includes day type (weekend or weekday), month, and week number (W19 —W32)
+  2. dim_hotels : Includes property id, property name, category (luxury/business) and the city.
+  3. dim_rooms : Includes room id and room class.
+  4. fact_aggregated_bookings : Stores information about bookings including booking dates, booking platforms, number of guests, revenue, check-in, and checkout dates.
+  5. fact_bookings : Includes successful bookings, hotel id, and capacity.
 
 Key Insights:
 
