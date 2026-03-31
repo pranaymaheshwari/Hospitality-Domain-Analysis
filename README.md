@@ -32,7 +32,7 @@ As a Data Analyst, the objective was to create a comprehensive dashboard that wo
 - Max revenue generated among room categories is by Elite (RT2 class) by 560.27M.
 - Weekends consistently exhibit higher occupancy rates than weekdays. There is no significant difference in ADR for weekdays and weekends.
 - Average Daily Rate of the Standard, Elite, Premium and Presidential Rooms are 8.05K, 11.32K, 15.12K and 23.44K respectively.
-- The Average Daily (ADR) Rate is higher on direct offline (hotel premises) compared to other booking platforms.
+- The Average Daily Rate (ADR) is higher on direct offline (hotel premises) compared to other booking platforms.
 - Other travel platforms/channels are the primary booking source, generating 40% of total bookings and revenue. Direct offline booking contributes the least to bookings and revenue generation, with 5%.
 - The Luxury room category contributes most of the revenue and bookings. Mumbai city contributes most of the revenue, followed by Hyderabad, Bangalore, and Delhi.
 - There is a correlation between revenue and average ratings, in that ratings with high ratings tend to generate more revenue.
